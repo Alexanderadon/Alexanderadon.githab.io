@@ -1,0 +1,36 @@
+1613390734a:1:{s:24:"commentspost/default.htm";a:5:{s:8:"fileName";s:24:"commentspost/default.htm";s:7:"content";s:480:"{% set posts = __SELF__.posts %}
+
+<div class="comments" id="comments-content">
+    {% if(__SELF__.count) > 0 %}
+    <h3 class="comments__count">
+        <span id="comments-count">{{ __SELF__.count }}</span> Comments
+    </h3>
+    {% endif %}
+
+    {% if(user or __SELF__.settings.allow_guest) %}
+        {% partial "commentsPost::form" %}
+    {% endif %}
+
+    <ul class="comments__list">
+        {% partial "commentsPost::list" posts=posts %}
+    </ul>
+</div>
+
+
+";s:5:"mtime";i:1589716745;s:6:"markup";s:474:"{% set posts = __SELF__.posts %}
+
+<div class="comments" id="comments-content">
+    {% if(__SELF__.count) > 0 %}
+    <h3 class="comments__count">
+        <span id="comments-count">{{ __SELF__.count }}</span> Comments
+    </h3>
+    {% endif %}
+
+    {% if(user or __SELF__.settings.allow_guest) %}
+        {% partial "commentsPost::form" %}
+    {% endif %}
+
+    <ul class="comments__list">
+        {% partial "commentsPost::list" posts=posts %}
+    </ul>
+</div>";s:4:"code";N;}}

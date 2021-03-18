@@ -1,0 +1,62 @@
+1613390714a:1:{s:14:"story_post.htm";a:17:{s:8:"fileName";s:14:"story_post.htm";s:7:"content";s:1027:"title = "PO | Anime Blog_story post"
+url = "/story_post/:slug"
+layout = "default"
+meta_title = "Blog_story"
+meta_description = "description"
+is_hidden = 0
+seo_keywords = "Key"
+robot_index = "index"
+robot_follow = "follow"
+
+[blogPost StoryblogPost]
+slug = "{{ :slug }}"
+categoryPage = "home"
+
+[commentsPost]
+
+[SeoBlogPost]
+post = "post"
+==
+{% component 'SeoBlogPost' data=post %}
+
+<section class="section section--post">
+    <div class="container">
+
+        <div class="section__header">   
+            <h2 class="section__title" > {{ post.title }}</h2>
+            <div class="section__text">
+                <div class="About-post">
+                    <img  src="https://99px.ru/sstorage/86/2018/07/image_860407180004092781531.gif" alt="">
+                </div>
+
+
+                <p>{{post.excerpt}}</p>
+            </div>
+            <div class="post">
+                {{ post.content_html|raw }}
+            </div>
+        </div>
+{% component 'commentsPost' %}
+    </div>
+</section>";s:5:"mtime";i:1589743418;s:6:"markup";s:669:"{% component 'SeoBlogPost' data=post %}
+
+<section class="section section--post">
+    <div class="container">
+
+        <div class="section__header">   
+            <h2 class="section__title" > {{ post.title }}</h2>
+            <div class="section__text">
+                <div class="About-post">
+                    <img  src="https://99px.ru/sstorage/86/2018/07/image_860407180004092781531.gif" alt="">
+                </div>
+
+
+                <p>{{post.excerpt}}</p>
+            </div>
+            <div class="post">
+                {{ post.content_html|raw }}
+            </div>
+        </div>
+{% component 'commentsPost' %}
+    </div>
+</section>";s:4:"code";N;s:5:"title";s:26:"PO | Anime Blog_story post";s:3:"url";s:17:"/story_post/:slug";s:6:"layout";s:7:"default";s:10:"meta_title";s:10:"Blog_story";s:16:"meta_description";s:11:"description";s:9:"is_hidden";s:1:"0";s:12:"seo_keywords";s:3:"Key";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:22:"blogPost StoryblogPost";a:2:{s:4:"slug";s:11:"{{ :slug }}";s:12:"categoryPage";s:4:"home";}s:12:"commentsPost";a:0:{}s:11:"SeoBlogPost";a:1:{s:4:"post";s:4:"post";}}}

@@ -1,0 +1,27 @@
+1613390715a:1:{s:7:"Map.htm";a:5:{s:8:"fileName";s:7:"Map.htm";s:7:"content";s:375:"<section class="section section--map" id="search">
+    <div class="container"></div>
+    <div class="map">
+        <div class="map__title">
+         <h2>
+             <i class="fas fa-map-marker-alt"></i>
+             <br>
+                <a href="https://yandex.kz/maps/-/C0RWRK7X">Open Map</a>
+            </h2>
+        </div>
+    </div>
+
+    </div>
+</section>";s:5:"mtime";i:1589184743;s:6:"markup";s:375:"<section class="section section--map" id="search">
+    <div class="container"></div>
+    <div class="map">
+        <div class="map__title">
+         <h2>
+             <i class="fas fa-map-marker-alt"></i>
+             <br>
+                <a href="https://yandex.kz/maps/-/C0RWRK7X">Open Map</a>
+            </h2>
+        </div>
+    </div>
+
+    </div>
+</section>";s:4:"code";N;}}

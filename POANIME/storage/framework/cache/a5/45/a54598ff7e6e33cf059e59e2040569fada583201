@@ -1,0 +1,46 @@
+1613390715a:1:{s:14:"statistics.htm";a:5:{s:8:"fileName";s:14:"statistics.htm";s:7:"content";s:1032:"<div class="statistics">
+    <div class="container">
+        <div class="stat">
+                <div class="statistics_item"><div class="statistics__number">
+                    <div class="statistics__text">43</div>
+                </div>Web Design Projects</div>
+                <div class="statistics_item"><div class="statistics__number">
+                    <div class="statistics__text">123</div>
+                </div>happy client</div>
+                <div class="statistics_item"><div class="statistics__number">
+                    <div class="statistics__text">36</div>
+                </div>award winner</div>
+                <div class="statistics_item"><div class="statistics__number">
+                    <div class="statistics__text">55</div>
+                </div>cup of coffee</div>
+                <div class="statistics_item"><div class="statistics__number">
+                    <div class="statistics__text">41</div>
+                </div>members</div>
+        </div>
+
+
+    </div>
+</div>
+";s:5:"mtime";i:1589183789;s:6:"markup";s:1030:"<div class="statistics">
+    <div class="container">
+        <div class="stat">
+                <div class="statistics_item"><div class="statistics__number">
+                    <div class="statistics__text">43</div>
+                </div>Web Design Projects</div>
+                <div class="statistics_item"><div class="statistics__number">
+                    <div class="statistics__text">123</div>
+                </div>happy client</div>
+                <div class="statistics_item"><div class="statistics__number">
+                    <div class="statistics__text">36</div>
+                </div>award winner</div>
+                <div class="statistics_item"><div class="statistics__number">
+                    <div class="statistics__text">55</div>
+                </div>cup of coffee</div>
+                <div class="statistics_item"><div class="statistics__number">
+                    <div class="statistics__text">41</div>
+                </div>members</div>
+        </div>
+
+
+    </div>
+</div>";s:4:"code";N;}}

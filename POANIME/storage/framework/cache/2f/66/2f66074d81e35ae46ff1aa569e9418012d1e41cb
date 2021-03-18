@@ -1,0 +1,59 @@
+1613390715a:1:{s:9:"logos.htm";a:5:{s:8:"fileName";s:9:"logos.htm";s:7:"content";s:1197:"<div class="section section--gray">
+    <div class="container">
+
+        <div class="logos">
+            <div class="logos__items">
+                <img class="logos__image" src="{{ 'assets/image/Без-имени-1.jpg'|theme }}" alt="">
+            </div>
+            <div class="logos__items">
+                <img class="logos__image" src="{{ 'assets/image/Без-имени-2.jpg'|theme }}" alt="">
+            </div>
+            <div class="logos__items">
+                <img class="logos__image" src="{{ 'assets/image/Без-имени-3.jpg'|theme }}" alt="">
+            </div>
+            <div class="logos__items">
+                <img class="logos__image" src="{{ 'assets/image/Без-имени-4.jpg'|theme }}" alt="">
+            </div>
+            <div class="logos__items">
+                <img class="logos__image" src="{{ 'assets/image/Без-имени-5.jpg'|theme }}" alt="">
+            </div>
+            <div class="logos__items">
+                <img class="logos__image" src="{{ 'assets/image/Без-имени-6.jpg'|theme }}" alt="">
+            </div>
+
+            
+            
+            
+            
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1589184315;s:6:"markup";s:1197:"<div class="section section--gray">
+    <div class="container">
+
+        <div class="logos">
+            <div class="logos__items">
+                <img class="logos__image" src="{{ 'assets/image/Без-имени-1.jpg'|theme }}" alt="">
+            </div>
+            <div class="logos__items">
+                <img class="logos__image" src="{{ 'assets/image/Без-имени-2.jpg'|theme }}" alt="">
+            </div>
+            <div class="logos__items">
+                <img class="logos__image" src="{{ 'assets/image/Без-имени-3.jpg'|theme }}" alt="">
+            </div>
+            <div class="logos__items">
+                <img class="logos__image" src="{{ 'assets/image/Без-имени-4.jpg'|theme }}" alt="">
+            </div>
+            <div class="logos__items">
+                <img class="logos__image" src="{{ 'assets/image/Без-имени-5.jpg'|theme }}" alt="">
+            </div>
+            <div class="logos__items">
+                <img class="logos__image" src="{{ 'assets/image/Без-имени-6.jpg'|theme }}" alt="">
+            </div>
+
+            
+            
+            
+            
+        </div>
+    </div>
+</div>";s:4:"code";N;}}
